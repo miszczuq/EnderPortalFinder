@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnderPortalFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnderPortalFinder_jar</output-path>
+    <root id="archive" name="EnderPortalFinder.jar">
+      <element id="module-output" name="EnderPortalFinder" />
+      <element id="archive" name="archive.jar" />
+    </root>
+  </artifact>
+</component>
